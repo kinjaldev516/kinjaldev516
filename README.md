@@ -1,16 +1,34 @@
-## Hi there 👋
+# ✨ HI, I'm Kinjal Sah!
 
-<!--
-**kinjaldev516/kinjaldev516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Turning curiosity into code.
 
-Here are some ideas to get you started:
+Welcome to my little corner of GitHub! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BCSIT Student | 🇳🇵 Nepal
+
+I'm at the beginning of my tech journey, exploring how ideas turn into real things through programming.
+
+### 🧩 Currently Exploring
+- Python programming
+- C language
+- Web development
+- Problem solving
+- Version control
+
+### 💡 Beyond the Screen
+- Always curious about how technology works.
+- Enjoy learning new skills.
+- Interested in building useful digital projects.
+
+### 🖥️ My Workspace
+- Visual Studio Code
+- Git
+- GitHub
+
+### 🌱 The Journey Ahead
+Learning today, creating tomorrow.
+
+### 📂 My Work
+My experiments, practice exercises, and future projects will live here.
+
+**Thanks for stopping by!**
